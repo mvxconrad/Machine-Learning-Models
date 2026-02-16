@@ -1,6 +1,6 @@
 # Machine Learning Models
 
-Coursework for Artificial Intelligence at Stetson University. This repository contains machine learning projects organized by learning type.
+Coursework for an Artificial Intelligence class (CSCI 431) at Stetson University. This repository contains machine learning projects organized by learning type.
 
 ## Repository Structure
 
