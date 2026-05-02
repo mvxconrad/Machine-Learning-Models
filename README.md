@@ -19,8 +19,9 @@ generative/          # Models that generate new data (images, etc.)
 
 #### [Titanic Survival Prediction](supervised/titanic-assignment1/)
 
-Binary classification model predicting passenger survival on the Titanic using **Logistic Regression** and **Random Forest**. Includes EDA, feature engineering, and model evaluation. Achieved **82% accuracy** on the test set.
+Binary classification model predicting passenger survival on the Titanic using **Logistic Regression** and **Random Forest**. Includes EDA, feature engineering, and model evaluation. Achieved **82% accuracy** with the tuned Random Forest.
 
+- Project README: [supervised/titanic-assignment1/README.md](supervised/titanic-assignment1/README.md)
 - Notebook: [supervised/titanic-assignment1/assignment1_titanic.ipynb](supervised/titanic-assignment1/assignment1_titanic.ipynb)
 - Report: [supervised/titanic-assignment1/assignment1_report.docx](supervised/titanic-assignment1/assignment1_report.docx)
 
