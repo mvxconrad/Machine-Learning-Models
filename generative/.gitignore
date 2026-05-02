@@ -1,5 +1,3 @@
-generated_images/image_at_epoch_*.png
-training_checkpoints/
 venv/
 __pycache__/
 *.pyc
